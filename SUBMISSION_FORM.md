@@ -20,7 +20,7 @@ AI adjudication / developer tooling / subjective consensus / software delivery v
 
 ## Links
 - Live app: https://commitcourt-genlayer.vercel.app
-- Public GitHub repository: **ADD AFTER REVIEWED SOURCE IS PUBLISHED**
+- Public GitHub repository: https://github.com/Manablaq/commitcourt-genlayer
 - GenLayer Builder Portal: https://portal.genlayer.foundation/
 - Source documentation: README.md and REVIEWER_EVIDENCE.md in the public repository
 
@@ -41,4 +41,4 @@ AI adjudication / developer tooling / subjective consensus / software delivery v
 Studio Devnet is a release-candidate development preview that may reset or lose state. The single published fixture does not show comprehensive coverage of all criteria and repositories. The frontend is a beta and requires explicit wallet approval for paid on-chain writes. No security audit, mainnet availability, escrow, payout, or permanent storage is claimed.
 
 ## Submission status
-**Prepared draft — not yet submitted.** The source repository URL and any portal-required proof (e.g. screenshots or demo video) must be supplied before final submission. Portal authentication and final submit action are performed by the account owner.
+**Ready for portal submission — not yet submitted.** The source repository URL is published. Supply any portal-required proof (e.g. screenshots or demo video) before final submission. Portal authentication and final submit action are performed by the account owner.
