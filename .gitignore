@@ -1,0 +1,20 @@
+# Local secrets and generated output
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+**/node_modules/
+**/.next/
+**/.vercel/
+**/coverage/
+**/dist/
+**/build/
+**/__pycache__/
+**/.DS_Store
+*.log
+*.zip
+COMMITCOURT_*/

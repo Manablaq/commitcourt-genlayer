@@ -1,0 +1,38 @@
+{
+  "name": "commitcourt-interactive",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=24.20.0 <25"
+  },
+  "scripts": {
+    "dev": "node node_modules/next/dist/bin/next dev",
+    "build": "node node_modules/next/dist/bin/next build",
+    "lint": "node node_modules/eslint/bin/eslint.js .",
+    "start": "node node_modules/next/dist/bin/next start",
+    "test": "node node_modules/vitest/vitest.mjs run",
+    "test:watch": "node node_modules/vitest/vitest.mjs",
+    "typecheck": "node node_modules/typescript/bin/tsc --noEmit"
+  },
+  "dependencies": {
+    "genlayer-js": "2.0.0-rc.1",
+    "next": "16.4.2",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "10.4.2",
+    "@testing-library/jest-dom": "6.6.3",
+    "@testing-library/react": "16.2.0",
+    "@types/node": "22.13.4",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "@vitejs/plugin-react": "4.4.1",
+    "eslint": "9.39.4",
+    "eslint-config-next": "16.4.2",
+    "jsdom": "26.0.0",
+    "typescript": "5.7.3",
+    "vite": "6.4.4",
+    "vitest": "5.0.4"
+  }
+}
